@@ -1,1 +1,1 @@
-# tiny-fourier
+# FFT core
