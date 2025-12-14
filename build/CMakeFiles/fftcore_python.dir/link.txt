@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto -shared  -o fftcore_python.cpython-310-x86_64-linux-gnu.so CMakeFiles/fftcore_python.dir/python/bindings.cpp.o  libfftcore.a 

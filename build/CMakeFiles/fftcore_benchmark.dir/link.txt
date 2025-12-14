@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/fftcore_benchmark.dir/tests/benchmark.cpp.o -o fftcore_benchmark  libfftcore_lib.a 

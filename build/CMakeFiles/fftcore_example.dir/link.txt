@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/fftcore_example.dir/tests/example_main.cpp.o -o fftcore_example  libfftcore_lib.a 

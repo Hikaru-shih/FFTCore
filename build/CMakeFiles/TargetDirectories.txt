@@ -1,0 +1,6 @@
+/mnt/c/FFTcore/build/CMakeFiles/fftcore_lib.dir
+/mnt/c/FFTcore/build/CMakeFiles/fftcore_example.dir
+/mnt/c/FFTcore/build/CMakeFiles/fftcore_benchmark.dir
+/mnt/c/FFTcore/build/CMakeFiles/fftcore.dir
+/mnt/c/FFTcore/build/CMakeFiles/edit_cache.dir
+/mnt/c/FFTcore/build/CMakeFiles/rebuild_cache.dir
